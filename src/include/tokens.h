@@ -1,10 +1,10 @@
-typedef union  {
-	int pos;
-	int ival;
-	string sval;
-    double fval;
-	} YYSTYPE;
-extern YYSTYPE yylval;
+//typedef union  {
+//	int pos;
+//	int ival;
+//	string sval;
+//   double fval;
+//	} YYSTYPE;
+//extern YYSTYPE yylval;
 
 # define ID 257
 # define STRING 258
